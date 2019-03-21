@@ -9,7 +9,7 @@ var lowerCaseletter = restChar.toLowerCase();
 var fullName = changeFirstLetter + lowerCaseletter;
 
 
-var guestList = ["Wes", "Jerry", "Paul", "Barry" ];
+var guestList = ["Wes", "Jerry", "Paul", "Barry", "William" ];
 
 guestList.includes(fullName);
 
